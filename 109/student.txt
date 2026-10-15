@@ -1,0 +1,25 @@
+# Student Registration
+
+Please fill in your details
+
+Full Name
+
+Date of Birth
+
+ Select date of birth Gender
+
+Male Male
+
+Female
+
+Other
+
+Email Address
+
+Phone Number
+
+Class / Course
+
+Address
+
+ Submit Registration Details Demo form: submitting sends the details into this chat for assistance. It does not enroll you in an institution or save to a school database.
